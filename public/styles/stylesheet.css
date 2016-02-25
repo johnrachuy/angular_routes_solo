@@ -1,0 +1,69 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+footer p {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.home {
+    text-align: center;
+    margin-top: 39px;
+    margin-bottom: 38px;
+}
+
+.game {
+    text-align: center;
+}
+
+.tv {
+    text-align: center;
+}
+
+.film {
+    text-align: center;
+}
+
+.red {
+    color: #db3236;
+}
+
+.blue {
+    color: #4885ed;
+}
+
+.green {
+    color: #3cba54;
+}
+
+.yellow {
+    color: #f4c20d;
+}
